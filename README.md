@@ -90,6 +90,7 @@ Password: admin123
 
 **Nama**: Duta Adi Pamungkas  
 **NIM**: 24060123140174  
+**Program Studi**: S1 Informatika
 **Universitas**: Universitas Diponegoro
 
 ## �📄 License
