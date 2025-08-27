@@ -86,12 +86,13 @@ Password: admin123
 3. **Detail Barang** - Info lengkap dan riwayat kepemilikan
 4. **Pemakaian** - Input pemakaian akan auto-reduce stok (barang habis pakai)
 
-## �‍💻 Developer
+## 👨‍💻 Developer
 
 **Nama**: Duta Adi Pamungkas  
 **NIM**: 24060123140174  
-**Program Studi**: S1 Informatika
+**Program Studi**: S1 Informatika  
 **Universitas**: Universitas Diponegoro
+
 
 ## �📄 License
 
